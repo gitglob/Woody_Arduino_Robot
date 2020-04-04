@@ -11,7 +11,7 @@ Whenever he found a Friend (object), it approaches and stops at the safe distanc
 It goes back, forth, takes turns, and settles with his head fairly straight (86~94 degrees angle).
 
 My goal was to understand and remind myself of some basic elements of robotics, including but not limited to 
-soldering, desoldering, electric circuits, C++, as well as take my first steps using arduino.
+soldering, desoldering, electric circuits, electric elements, C++, as well as take my first steps using arduino.
 
 It turned out to be a really awesome experience!
 
