@@ -3,8 +3,8 @@
 A mini Arduino practicing project. I made a robot, Woody, who follows everything within a range but stops as 
 he understand the importance of Social Distancing!
 
-I used the instructions of this video " https://www.youtube.com/watch?v=yAV5aZ0unag ", but changed it so that Woody can use 
-the functions of the servo motor and more.
+I used the instructions of this video " https://www.youtube.com/watch?v=yAV5aZ0unag ", but changed it so that Woody can take advantage 
+of the functionality of the servo motor and more.
 
 My main goal was for the robot to follow everything while continuously searching by turning his head left->right and counterwise. 
 Whenever he found a Friend (object), it approaches and stops at the safe distance of 10>x>5 cm where Covid19 can't reach him!
