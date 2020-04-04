@@ -18,6 +18,8 @@ It turned out to be a really awesome experience!
 Feel free to use the code in any way you want. It isn't perfect obviously, but it does its job decently!
 The IR and Ultrasonic sensors are susceptible to noise, so have that in mind!
 
+*Note: I messed up and spilled glue on one of the wheels, so mine get a bit laggy sometimes do to the added friction! ^_^ Oh well...
+
 This is my first arduino project, so be lenient! :)
 
 Me and Woody both wish everyone Luck and Health :D
